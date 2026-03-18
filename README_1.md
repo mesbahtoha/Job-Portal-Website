@@ -7,12 +7,6 @@ A full-stack job portal web application built with the **MERN stack**, where emp
 
 ---
 
-## 📸 Preview
-
-> _Add screenshots of your app here_
-
----
-
 ## 🚀 Features
 
 ### For Job Seekers
